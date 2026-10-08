@@ -1,0 +1,40 @@
+[
+    {
+        "student_id": 1,
+        "fullname": "Joseph Favour",
+        "age": 19,
+        "email": "favour@gmail.com",
+        "department": "Data Science",
+        "courses": [
+            "DTS101"
+        ]
+    },
+    {
+        "student_id": 2,
+        "fullname": "Balogun Ayomide",
+        "age": 20,
+        "email": "ay@yahoo.com",
+        "department": "Cyber Security",
+        "courses": [
+            "CSC201"
+        ]
+    },
+    {
+        "student_id": 3,
+        "fullname": "Samuel Ademola",
+        "age": 45,
+        "email": "samuel@.com",
+        "department": "Computer Science",
+        "courses": []
+    },
+    {
+        "student_id": 4,
+        "fullname": "Collins Olowotedo",
+        "age": 2,
+        "email": "collins1@gmail.com",
+        "department": "Computer science",
+        "courses": [
+            "CSC301"
+        ]
+    }
+]

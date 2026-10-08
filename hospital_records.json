@@ -1,0 +1,37 @@
+{
+    "patients": {
+        "1": {
+            "patient_id": "1",
+            "name": "Bandide Banjoko",
+            "age": 45,
+            "gender": "Male",
+            "phone": "09122334455"
+        }
+    },
+    "doctors": {
+        "1": {
+            "doctor_id": "1",
+            "name": "Dr. Olumide ",
+            "age": 34,
+            "gender": "Male",
+            "phone": "09076542256",
+            "specialization": "Cardiologist"
+        }
+    },
+    "appointments": [
+        {
+            "patient_id": "1",
+            "doctor_id": "1",
+            "date": "12-08-2026",
+            "time": "12:00"
+        }
+    ],
+    "bills": [
+        {
+            "patient_id": "1",
+            "consultation_fee": 100000.0,
+            "medication_fee": 300000.0,
+            "total_bill": 400000.0
+        }
+    ]
+}

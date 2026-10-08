@@ -1,0 +1,32 @@
+[
+    {
+        "teacher_id": 1,
+        "fullname": "Mr. Adigun Samson",
+        "email": "adigunsamson@gmail.com",
+        "courses": [
+            "CSC201"
+        ]
+    },
+    {
+        "teacher_id": 2,
+        "fullname": "Mrs Oreke Jagun",
+        "email": "oreke1@gmail.com",
+        "courses": [
+            "DTS101"
+        ]
+    },
+    {
+        "teacher_id": 3,
+        "fullname": "Miss Koinkoin",
+        "email": "koinkoin@gmail.com",
+        "courses": []
+    },
+    {
+        "teacher_id": 4,
+        "fullname": "Mrs. Gbadejoko",
+        "email": "gbade@gmail.com",
+        "courses": [
+            "CSC301"
+        ]
+    }
+]
